@@ -1,0 +1,10 @@
+title: whoami Konrad Zieliński
+description: Nowoczesne rozwiązania IT i automatyzacja procesów.
+theme: jekyll-theme-cayman # Czysty, nowoczesny, oficjalny szablon od GitHuba
+
+# Dane kontaktowe, które wyświetlą się na stronie
+email: kontakt@konradzielinski.dev
+phone: "+48 798 923 339"
+
+# Jeśli w przyszłości podepniesz własną domenę (np. moja-firma.pl), wpisz ją tu:
+url: "https://konradzielinski.dev"
