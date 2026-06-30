@@ -21,13 +21,26 @@ Projektuję, wdrażam i utrzymuję bezpieczną oraz skalowalną infrastrukturę 
 ## 💻 Stack technologiczny
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" title="Debian" alt="Debian" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="50" title="RHEL" alt="RHEL" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" title="Prometheus" alt="Prometheus" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" title="Grafana" alt="Grafana" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python" style="margin-right: 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" title="Bash" alt="Bash" style="margin-right: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux" alt="Linux" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="45" title="RHEL" alt="RHEL" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45" title="Debian" alt="Debian" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="45" title="macOS" alt="macOS" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Windows" alt="Windows" style="margin-right: 12px; margin-bottom: 12px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS" alt="AWS" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Azure" alt="Azure" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="GCP" alt="GCP" style="margin-right: 12px; margin-bottom: 12px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" title="Jenkins" alt="Jenkins" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="45" title="GitLab CI" alt="GitLab CI" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub Actions" alt="GitHub Actions" style="margin-right: 12px; margin-bottom: 12px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="45" title="Prometheus" alt="Prometheus" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" title="Grafana" alt="Grafana" style="margin-right: 12px; margin-bottom: 12px;"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash" alt="Bash" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python" style="margin-right: 12px; margin-bottom: 12px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" title="R" alt="R" style="margin-right: 12px; margin-bottom: 12px;"/>
 </p>
 
 * **OS:** Linux, macOS, Windows
