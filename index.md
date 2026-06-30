@@ -38,6 +38,28 @@ Projektuję, wdrażam i utrzymuję bezpieczną oraz skalowalną infrastrukturę 
 
 ---
 
+## 📜 Certyfikaty & Szkolenia
+
+Moje kompetencje potwierdzają ukończone szkolenia oraz certyfikacje w obszarach bezpieczeństwa IT, chmury i zarządzania infrastrukturą:
+
+* **Bezpieczeństwo IT:**
+  * Szkoła Bezpieczeństwa / Audytu (Niebezpiecznik, 2023)
+  * Bezpieczeństwo Sieci Komputerowych (Niebezpiecznik, 2015)
+  * Elementy Bezpieczeństwa Informacji w Zarządzaniu Projektami (TUV NORD, 2015)
+* **Chmura & Wirtualizacja:**
+  * Microsoft Certified: Azure Fundamentals (AZ-900, 2023)
+  * Deploying Desktop Virtualization Technologies (Microsoft, 2016)
+  * Devices and Deployment Technical for Windows and Office (Microsoft, 2016)
+
+---
+
+## 🌐 Dodatkowe informacje
+
+* **Języki:** Angielski (swobodna komunikacja techniczna i biznesowa)
+* **Mobilność:** Prawo jazdy kat. B
+
+---
+
 ## 📬 Kontakt
 
 Jeśli potrzebujesz wsparcia przy migracji systemów, audycie bezpieczeństwa środowiska kontenerowego lub wdrożeniu profesjonalnego monitoringu, zapraszam do bezpośredniego kontaktu:
