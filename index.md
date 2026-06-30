@@ -25,6 +25,7 @@ Projektuję, wdrażam i utrzymuję bezpieczną oraz skalowalną infrastrukturę 
 * **Skryptowanie:** Bash, Python, R
 * **Automatyzacja:** Jenkins, GitLab CI, GitHub Actions
 * **Witualizacja:** Proxmox, ESXi, vSphere, HPC
+
 ---
 
 ## 📬 Kontakt
